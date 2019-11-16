@@ -1,0 +1,23 @@
+{
+  "name": "appengineassignment",
+  "version": "1.0.0",
+  "description": "Assignment done as part of IOT course. This app is used to display the number of times hello word is called.",
+  "main": "index.js",
+  "scripts": {
+    "startHere": "node start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "iot",
+    "nodejs",
+    "hello",
+    "keywords",
+    "basic"
+  ],
+  "author": "Vishal Reddy Pannala",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.7.2",
+    "express": "^4.17.1"
+  }
+}
